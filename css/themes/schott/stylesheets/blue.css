@@ -1,0 +1,9 @@
+/***************************************************************************/
+/*  						BLUE		
+/***************************************************************************/
+#header {
+	background-color: #005abb;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#005abb), to(#005abb));
+	background-image: -moz-linear-gradient(center top, #005abb 0%, #005abb 100% );
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#005abb', endColorstr='#005abb');	
+}
